@@ -1,2 +1,2 @@
 # MernStack-chatGPT-Clone
-complete chatGPT -clone
+complete mern stack chat gpt clone 
